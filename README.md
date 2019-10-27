@@ -7,4 +7,9 @@ and applied it on MNIST dataset to achieve the accuracy ~88%. This project basic
 
 <h5>Structre of network:</h5>
 <p>Input layer -> Hidden layer -> Output layer</p>
+
+![mnist_2layers](https://user-images.githubusercontent.com/32700465/67635094-aff7df00-f8e4-11e9-9b91-f6fda71ba23a.png)
+
 <p>Dataset : http://yann.lecun.com/exdb/mnist/</p>
+
+
