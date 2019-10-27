@@ -3,7 +3,7 @@
 <h4>Implementation of multi-layer perceptron using basic Java(without any framework)</h4>
 
 <p>It is a simple implementation of complex concepts of gradient descent. I Used stochastic gradient descent and binary cross-entropy loss function
-and applied it on MNIST dataset to achieve the accuracy ~88%. This project basically helps beginners with the understanding of neural networks.</p>
+and applied it on MNIST dataset to achieve the accuracy ~88%. This project basically helps beginners with the understanding of neural networks. Interface is basic, but informative.</p>
 
 <h5>Structre of network:</h5>
 <p>Input layer -> Hidden layer -> Output layer</p>
@@ -12,4 +12,5 @@ and applied it on MNIST dataset to achieve the accuracy ~88%. This project basic
 
 <p>Dataset : http://yann.lecun.com/exdb/mnist/</p>
 
+![mnist_plot-200x150](https://user-images.githubusercontent.com/32700465/67635112-d4ec5200-f8e4-11e9-8205-e695425d43d8.png)
 
